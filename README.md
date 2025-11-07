@@ -6,5 +6,5 @@
 -Что остальные 1% решает перезагрузка
 -И что есть ещё 1%, который заставит вас плакать в подушку
 
-[![Soler's stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Soler's stats](https://github-readme-stats.vercel.app/api?username=soler)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
